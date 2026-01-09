@@ -17,7 +17,6 @@
 
 ## Running the Tool
 
-1. Navigate to the `src` directory:
-    python VCodeAyahuasca.py
+1. python3 vcode_main.py
 
 

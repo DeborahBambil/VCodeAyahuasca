@@ -1,6 +1,6 @@
 # VCodeAyahuasca
 
-![name-of-you-image](https://github.com/DeborahBambil/figs/blob/main/VCodeA.png?raw=true)
+![name-of-you-image](https://github.com/DeborahBambil/figs/blob/main/VCodeAy.png?raw=true)
 
 # Inovtaxon - Identification of Leaf Images
 
